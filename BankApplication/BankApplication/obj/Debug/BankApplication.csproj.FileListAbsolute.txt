@@ -1,0 +1,9 @@
+C:\Users\carld\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\carld\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.Main.resources
+C:\Users\carld\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\carld\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
+C:\Users\carld\source\repos\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\carld\source\repos\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\carld\source\repos\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\carld\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\carld\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
